@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AustinCodingAcademy/411_wk6_day1_redux_thunk)
+
 ## Setup
 
 Clone this repo and run `npm i` and then `npm start`
